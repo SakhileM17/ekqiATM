@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kamog
+ *
+ */
+module myAtmApp {
+}
