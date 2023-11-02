@@ -14,5 +14,8 @@
   <li> Transaction History </li>
 </ul>
 
+<h2>Getting Started</h2>
+
+<p>Follow these steps to get the Java ATM project up and running on your local machine. The project was developed using Eclipse IDE for Enterprise Java and WebDevelopers - 20 </p>
 
 
