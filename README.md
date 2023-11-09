@@ -1,4 +1,4 @@
-# myATM
+# myATM (Command Line)
 <p>My first Command Line java application, the beginning of an amazing career as a software developer. My goal is to one day look back at this application to see how far i've come and grown<br> </p>
 
 <h2>Description</h2>
