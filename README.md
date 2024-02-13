@@ -39,7 +39,7 @@
 ![ATM AtmLoginConstructor](https://lh3.googleusercontent.com/pw/ADCreHdGqW8mvKuSUNPS0Eas6X7PpqePvYdh-OtMWG0j1CaEJvPuC9kwRjm9ArGBgO7XI16hw8xou1MIVxw_2VZajtub4ORyR7ZJBg2tLXIJcj8DbISxca5qtFhlM6Iiz-0ddPE6ahSkTlIurT-ofS-aYWfE=w1108-h216-s-no-gm?authuser=0)
 
 <h2>Acknowledgement</h2>
-<p>Applicaton was developed by Sakhile Mkhalele 2023</p>
+<p>Applicaton was developed by Sakhile Mkhalele in 2023.</p>
 
 <h2>Contact</h2>
 <p>For any questions please dont hesitate to contact me : <br><br>
